@@ -1,0 +1,11 @@
+member:
+	Name_5 id: 5, house:-1
+	Name_4 id: 4, house: 4
+	Name_3 id: 3, house: 3
+	Name_2 id: 2, house: 2
+	Name_1 id: 1, house: 1
+house:
+	id: 1, cost: 100, live
+	id: 2, cost: 200, lent
+	id: 3, cost: 300, free
+	id: 4, cost: 400, free

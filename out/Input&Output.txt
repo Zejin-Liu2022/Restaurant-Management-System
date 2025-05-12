@@ -1,0 +1,230 @@
+Welcome to the Vitality Elderly Community System!
+
+Please click on the corresponding key to select your service
+
+1 -> Membership system  2 -> House system       3 -> Purchase system
+4 -> Check in system    5 -> print to txt       # -> Prompt message     0 -> End
+1
+
+1 -> creat      2 -> delete
+3 -> find       4 -> modify
+0 -> end
+1
+Please input id & name
+001 Name_1
+Add Successfully
+
+1 -> creat      2 -> delete
+3 -> find       4 -> modify
+0 -> end
+1
+Please input id & name
+002 Name_2
+Add Successfully
+
+1 -> creat      2 -> delete
+3 -> find       4 -> modify
+0 -> end
+1
+Please input id & name
+003 Name_3
+Add Successfully
+
+1 -> creat      2 -> delete
+3 -> find       4 -> modify
+0 -> end
+1
+Please input id & name
+004 Name_4
+Add Successfully
+
+1 -> creat      2 -> delete
+3 -> find       4 -> modify
+0 -> end
+1
+Please input id & name
+005 Name_5
+Add Successfully
+
+1 -> creat      2 -> delete
+3 -> find       4 -> modify
+0 -> end
+0
+
+1 -> Membership system  2 -> House system       3 -> Purchase system
+4 -> Check in system    5 -> print to txt       # -> Prompt message     0 -> End
+2
+
+1 -> creat      0 -> end
+1
+input house id
+0001
+input house cost
+100
+
+1 -> creat      0 -> end
+1
+input house id
+0002
+input house cost
+200
+
+1 -> creat      0 -> end
+1
+input house id
+0003
+input house cost
+300
+
+1 -> creat      0 -> end
+1
+input house id
+0004
+input house cost
+400
+
+1 -> creat      0 -> end
+0
+
+1 -> Membership system  2 -> House system       3 -> Purchase system
+4 -> Check in system    5 -> print to txt       # -> Prompt message     0 -> End
+3
+
+1 -> purchase   0 -> end
+1
+
+Please input your id
+001
+
+Please input your ideal cost
+100
+1: cost 100, id 1, free
+which one you choose,0 -> end
+1
+Purchase successful
+
+1 -> purchase   0 -> end
+1
+
+Please input your id
+002
+
+Please input your ideal cost
+200
+1: cost 200, id 2, free
+which one you choose,0 -> end
+1
+Purchase successful
+
+1 -> purchase   0 -> end
+1
+
+Please input your id
+003
+
+Please input your ideal cost
+300
+1: cost 300, id 3, free
+which one you choose,0 -> end
+1
+Purchase successful
+
+1 -> purchase   0 -> end
+1
+
+Please input your id
+004
+
+Please input your ideal cost
+400
+1: cost 400, id 4, free
+which one you choose,0 -> end
+1
+Purchase successful
+
+1 -> purchase   0 -> end
+1
+
+Please input your id
+005
+
+Please input your ideal cost
+500
+1: cost 400, id 4, owned
+which one you choose,0 -> end
+0
+Purchase failed, please try again
+
+1 -> purchase   0 -> end
+0
+
+1 -> Membership system  2 -> House system       3 -> Purchase system
+4 -> Check in system    5 -> print to txt       # -> Prompt message     0 -> End
+4
+
+1 -> check in   0 -> end
+1
+
+Please input your id
+001
+What do you want to do to your house?
+1 -> check in   2 -> rent
+3 -> free       0 -> end
+1
+successful
+
+1 -> check in   0 -> end
+1
+
+Please input your id
+002
+What do you want to do to your house?
+1 -> check in   2 -> rent
+3 -> free       0 -> end
+2
+successful
+
+1 -> check in   0 -> end
+1
+
+Please input your id
+003
+What do you want to do to your house?
+1 -> check in   2 -> rent
+3 -> free       0 -> end
+1
+successful
+
+1 -> check in   0 -> end
+1
+
+Please input your id
+003
+What do you want to do to your house?
+1 -> check in   2 -> rent
+3 -> free       0 -> end
+3
+successful
+
+1 -> check in   0 -> end
+1
+
+Please input your id
+005
+sorry you didn't have house
+
+1 -> check in   0 -> end
+0
+
+1 -> Membership system  2 -> House system       3 -> Purchase system
+4 -> Check in system    5 -> print to txt       # -> Prompt message     0 -> End
+5
+Print successful
+1 -> Membership system  2 -> House system       3 -> Purchase system
+4 -> Check in system    5 -> print to txt       # -> Prompt message     0 -> End
+#
+
+1 -> Membership system  2 -> House system       3 -> Purchase system
+4 -> Check in system    5 -> print to txt       # -> Prompt message     0 -> End
+0
+PS C:\Users\Zejin Liu\Desktop> 
